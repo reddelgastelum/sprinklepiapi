@@ -11,7 +11,9 @@ if (init) {
   let data = {
     number: '3',
     isOn: false,
-    isActive: false
+    isActive: false,
+    time: '21:00',
+    duration: "15"
   };
 
   db.insert(data, (err, d) => {
