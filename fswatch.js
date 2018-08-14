@@ -7,6 +7,4 @@ fs.watch('./models/zones.db', (eventType, filename) => {
   } else {
     console.log(`Filename not provided`);
   }
-
-  fetch('http://localhost:3000');
 });
