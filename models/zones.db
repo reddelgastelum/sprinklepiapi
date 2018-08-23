@@ -1,4 +1,3 @@
 {"number":"1","isOn":false,"isActive":true,"time":"21:00","duration":"15","_id":"qgdyuUeoKcS7mnxB","createdAt":{"$$date":1534225544408},"updatedAt":{"$$date":1534225544408}}
 {"number":"2","isOn":true,"isActive":true,"time":"21:00","duration":"15","_id":"sf6MygcxoWbyH5kA","createdAt":{"$$date":1534225610319},"updatedAt":{"$$date":1534225610319}}
 {"number":"3","isOn":false,"isActive":false,"time":"21:00","duration":"15","_id":"vVPKUM8AgCQT7RDx","createdAt":{"$$date":1534225661915},"updatedAt":{"$$date":1534225661915}}
-{"number":"3","isOn":false,"isActive":false,"time":"21:00","duration":"15","_id":"iHUcVfCvD3YczUTI","createdAt":{"$$date":1534225713992},"updatedAt":{"$$date":1534225713992}}
